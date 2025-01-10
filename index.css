@@ -25,7 +25,7 @@ p {
 
 input[type="number"] {
     padding: 10px;
-    font-size: 1rem;
+    font-size: 1;
     border: 2px solid #ff7e5f;
     border-radius: 5px;
     width: 250px;
